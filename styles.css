@@ -9,7 +9,6 @@ h1 {
   letter-spacing: -25px;
   color: #0f0f0f;
   text-transform: uppercase;
-  text-transform: uppercase;
   line-height: 0.8;
   position: absolute;
   top: 0;
@@ -47,7 +46,7 @@ body {
   margin: 0 auto;
 }
 .left-text {
-  font-size: 16;
+  font-size: 16px;
   text-align: left;
   max-width: 65%;
 }
@@ -99,9 +98,6 @@ body {
 }
 .custom-cursor.big .cursor-text {
   opacity: 1;
-}
-.wrapper {
-  position: relative;
 }
 
 .button {
@@ -239,7 +235,6 @@ body {
   letter-spacing: -5px;
   margin-bottom: 2rem;
 }
-
 .right-scroll::-webkit-scrollbar {
   display: none;
 }
